@@ -35,3 +35,5 @@ float computeCircleArea(float functionRadius){
 ```
 
 ![capture](Capture.PNG)
+
+![capture2](Capture1.PNG)
